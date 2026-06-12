@@ -1,0 +1,58 @@
+**GitHub Repository Analysis Report**
+=====================================
+
+### 1. Project Overview
+
+The ImadNait/GitHub-Repo-Analyzer project is an AI-powered tool designed to analyze any GitHub repository and generate a structured report. The project utilizes LangChain, LangGraph, and Groq (Llama 3.3) to fetch repository information, README, file structure, languages, and recent commits, and then generates a comprehensive analysis report using AI.
+
+### 2. Tech Stack
+
+The project's tech stack consists of:
+
+* **LangChain + LangGraph**: Used for building the AI agent
+* **Groq API (llama-3.3-70b-versatile)**: Utilized for generating the analysis report
+* **GitHub REST API**: Used for fetching repository information
+
+### 3. Project Structure
+
+The project's file structure is organized as follows:
+
+* **Root Directory**:
+	+ `.gitignore`
+	+ `.python-version`
+	+ `README.md`
+	+ `main.py`
+	+ `pyproject.toml`
+	+ `requirements.txt`
+	+ `uv.lock`
+* **Directories**:
+	+ `notebooks`
+	+ `reports`
+
+### 4. Recent Activity
+
+The project has seen recent activity, with multiple commits made on June 12, 2026, by ImadNait. The commits are related to updating the "get tool."
+
+### 5. Getting Started
+
+To get started with the project, follow these steps:
+
+1. Clone the repository using `git clone https://github.com/ImadNait/GitHub-Repo-Analyzer.git`
+2. Install the required dependencies using `pip install -r requirements.txt`
+3. Run the `main.py` file to start the analysis process
+
+Note: Since the project has no license specified, it is essential to review the terms and conditions before using or contributing to the project.
+
+### 6. Strengths and Suggestions
+
+**Strengths:**
+
+* The project utilizes a robust tech stack, including LangChain, LangGraph, and Groq API, to generate comprehensive analysis reports.
+* The project's file structure is well-organized, making it easy to navigate and understand.
+
+**Suggestions:**
+
+* Consider adding a license to the project to clarify the terms and conditions for use and contribution.
+* The project's README could be more detailed, providing a step-by-step guide for getting started and troubleshooting common issues.
+* The project's recent commits suggest that the "get tool" is being actively developed. Consider providing more information about the tool's purpose and functionality.
+* The project has no open issues, stars, or forks. Consider promoting the project to attract more contributors and users.
