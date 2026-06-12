@@ -1,0 +1,62 @@
+**GitHub Repository Analysis Report**
+=====================================
+
+### 1. Project Overview
+
+The GitHub Repository Analyzer is an AI-powered tool designed to analyze any GitHub repository and generate a structured report. The project utilizes LangChain, LangGraph, and Groq (Llama 3.3) to fetch repository information, README, file structure, languages, and recent commits, and then generates a comprehensive analysis report using AI.
+
+### 2. Tech Stack
+
+The project's tech stack consists of:
+
+* **LangChain + LangGraph**: Used for building the AI agent
+* **Groq API (llama-3.3-70b-versatile)**: Utilized for generating the analysis report
+* **GitHub REST API**: Used for fetching repository information
+
+### 3. Project Structure
+
+The project's file structure is organized as follows:
+
+* **Root Directory**:
+	+ `.gitignore`
+	+ `.python-version`
+	+ `README.md`
+	+ `main.py`
+	+ `pyproject.toml`
+	+ `requirements.txt`
+	+ `uv.lock`
+* **Notebooks Directory**: Contains Jupyter Notebook files
+
+### 4. Recent Activity
+
+The project has seen recent activity, with the following commits made on 2026-06-12:
+
+* `updated get tool` (twice)
+* `updating project`
+* `pushing project`
+
+All commits were made by ImadNait.
+
+### 5. Getting Started
+
+To get started with the project, follow these steps:
+
+1. Clone the repository using `git clone`
+2. Install the required dependencies listed in `requirements.txt`
+3. Run `main.py` to execute the GitHub Repository Analyzer
+4. Refer to the `README.md` file for more information on usage and configuration
+
+### 6. Strengths and Suggestions
+
+**Strengths:**
+
+* The project utilizes a robust tech stack, including LangChain and Groq API
+* The project has a clear and organized file structure
+* The project has seen recent activity, indicating ongoing development and maintenance
+
+**Suggestions:**
+
+* Consider adding a license to the project to clarify usage and distribution terms
+* Add more topics to the repository to improve discoverability
+* Consider adding more documentation, such as a user guide or API documentation, to help users get started with the project
+* The project's language distribution is heavily skewed towards Jupyter Notebook (99.3%), which may indicate a lack of diversity in the codebase. Consider adding more Python code to balance the distribution.
