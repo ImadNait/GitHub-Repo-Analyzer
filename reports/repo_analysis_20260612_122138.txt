@@ -26,14 +26,15 @@ The project's file structure is organized as follows:
 	+ `requirements.txt`
 	+ `uv.lock`
 * **Notebooks Directory**: Contains Jupyter Notebook files
+* **Reports Directory**: Stores generated analysis reports
 
 ### 4. Recent Activity
 
 The project has seen recent activity, with the following commits made on 2026-06-12:
 
-* `updated get tool` (twice)
+* `updated get tool` (x4)
+* `updating get tool`
 * `updating project`
-* `pushing project`
 
 All commits were made by ImadNait.
 
@@ -42,8 +43,8 @@ All commits were made by ImadNait.
 To get started with the project, follow these steps:
 
 1. Clone the repository using `git clone`
-2. Install the required dependencies listed in `requirements.txt`
-3. Run `main.py` to execute the GitHub Repository Analyzer
+2. Install required dependencies using `pip install -r requirements.txt`
+3. Run the `main.py` file to start the analysis process
 4. Refer to the `README.md` file for more information on usage and configuration
 
 ### 6. Strengths and Suggestions
@@ -51,12 +52,12 @@ To get started with the project, follow these steps:
 **Strengths:**
 
 * The project utilizes a robust tech stack, including LangChain and Groq API
-* The project has a clear and organized file structure
-* The project has seen recent activity, indicating ongoing development and maintenance
+* The AI-powered analysis report generation is a unique feature
+* The project is well-organized, with a clear file structure
 
 **Suggestions:**
 
 * Consider adding a license to the project to clarify usage and distribution terms
-* Add more topics to the repository to improve discoverability
-* Consider adding more documentation, such as a user guide or API documentation, to help users get started with the project
-* The project's language distribution is heavily skewed towards Jupyter Notebook (99.3%), which may indicate a lack of diversity in the codebase. Consider adding more Python code to balance the distribution.
+* The project could benefit from more documentation, including usage examples and troubleshooting guides
+* Adding more topics or keywords to the repository could improve discoverability
+* With 0 stars and 0 forks, the project could benefit from increased community engagement and outreach efforts.
